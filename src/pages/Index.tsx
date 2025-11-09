@@ -44,8 +44,8 @@ const Index = () => {
             </div>
             
             <h1 className="text-5xl md:text-6xl font-bold tracking-tight">
-              Detect Deepfakes with
-              <span className="block text-primary mt-2">AI Precision</span>
+              TRUTH LENS
+              <span className="block text-primary mt-2">AI SCAN</span>
             </h1>
             
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
