@@ -1,0 +1,4 @@
+project_id = "kgqjzmnbhmmwgfzixztn"
+
+[functions.analyze-deepfake]
+verify_jwt = true
